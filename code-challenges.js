@@ -109,7 +109,7 @@ const numSort = (array) =>{
 
 // const calculator = (num1, op, num2) => {
 
-//     if(num1 === 0 || num2 === 0 && op ==="/"){
+//     if(num2 === 0 && op ==="/"){
 //         return "Can't divide by 0"
 //     }
 //     else if(op === "/"){
